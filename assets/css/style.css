@@ -169,7 +169,7 @@ main {
 }
 
 #times div {
-    color: #ffffff;
+    color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
     padding: 15px;
     text-align: center;
@@ -183,7 +183,7 @@ main {
 }
 
 #times h3 {
-    color: #ffffff;
+    color: #fafafa;
 }
 
 /* Gallery page */ 
@@ -202,7 +202,7 @@ main {
 }
 
 #signup {
-    background-image: url("/assets/images/signup-image.webp");
+    background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -221,7 +221,7 @@ main {
 }
 
 .text-input {
-    background-color: transparent;
+    background: transparent;
     color: #fafafa;
     width: 100%;
     height: 25px;
